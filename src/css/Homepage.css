@@ -1,0 +1,30 @@
+th {
+    background-color: #646669;
+  }
+  
+  table,
+  th,
+  td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  
+  table {
+    height: auto;
+    margin-top: 100px;
+    background-color: black;
+    color: #d0d5d9;
+    width: 70%;
+    height: auto;
+    margin-left: 10%;
+  }
+
+  .row{
+    display: flex;
+  }
+  
+  .column{
+    flex: 50%;
+    padding: 5px;
+  }
+  
